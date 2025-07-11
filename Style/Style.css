@@ -69,6 +69,8 @@ nav {
   font-size: 65px;
   color: #252432;
   font-weight: 700;
+  font-family: "Raleway", sans-serif;
+  word-wrap: break-word;
 }
 
 /* main body style */
